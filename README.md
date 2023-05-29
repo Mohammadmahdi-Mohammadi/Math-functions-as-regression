@@ -28,11 +28,14 @@ Also, It is recommended to reduce learning rate during the iterations. (why?)
 e) Using above function, train 15 regressions with combination of 100, 1000, 5000 iterations
 and degrees of 1,2,3,5,10. In one 3x5 plot, report obtained regression lines and in another
 3x5 plot, report MSE for each train. Discuss about results and explain which one is optima.
+
 f) Implement your strategy (1-b) and find mentioned parameter as well as reports of
 regression lines and MSE chart. Also, compare it with best result of previous part.
+
 g) Now, implement normal equation method to train regression model (based on given
 formula in slides) and plot regression line then compare with results of previous parts and
 discuss about it.
+
 h) Using the 5-fold cross validation with five different values for regularization term, try to
 train an optima regression model based on gradient descent with 2500 iterations and
 degree of 4. Report result and discuss about obtained value.
